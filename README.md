@@ -12,13 +12,14 @@ I'm passionate about building intelligent systems using **Machine Learning, Deep
 - 📊 Experimenting with data-driven modeling and model optimization
 
 ### 🛠️ Tech Stack
-`Python` · `PyTorch` · `TensorFlow` · `Scikit-learn` · `Pandas` · `OpenCV` · `Hugging Face` · `FAISS` · `Docker` · `Git`
+`Python` · `PyTorch` · `TensorFlow` · `Scikit-learn` · `Pandas` · `OpenCV` · `Hugging Face` · `FAISS` · `Docker` · `Git` 
 
 ### 🚀 Featured Projects
 - **CareVision** — Brain tumor classification using deep learning
 - **MedAI** — Medical chatbot using QLoRA fine-tuning and RAG
 - **Sleep Apnea Detection** — ECG-based classification using machine learning and LSTMs
 - **SmartCut** — ML-based machining surface roughness prediction
+- **HeatMap AI** — Surface Urban Heat Island analysis and land surface temperature prediction using satellite imagery and machine learning
 
 ### 🎯 My Goal
 To develop impactful AI solutions that bridge research and real-world applications.
